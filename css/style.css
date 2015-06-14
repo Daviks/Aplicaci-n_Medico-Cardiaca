@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 5px 150px;
+}
+
+#arco {
+	border-radius: 0% 0% 50% 50%;
+	background: #87CEFA;
+	border: none;
+	width: 100%;
+	height: 250px;
+}
+
+#divLogoMenu {
+	width: 80px;
+	height: 80px;
+	margin-left: 350;
+}
